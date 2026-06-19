@@ -85,4 +85,3 @@ The dataset includes bike rental observations with variables such as:
 - Add Negative Binomial Regression to better handle overdispersion
 - Compare Poisson Regression with tree-based machine learning models
 - Add visualizations for hourly, seasonal, and weather-based demand patterns
-- Organize final model outputs and charts into a report folder
